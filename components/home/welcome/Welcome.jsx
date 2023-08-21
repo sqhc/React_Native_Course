@@ -5,7 +5,7 @@ import {
   TextInput,
   TouchableOpacity,
   Image,
-  FlatList,
+  FlatList
 } from "react-native";
 import { useRouter } from "expo-router";
 

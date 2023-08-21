@@ -20,7 +20,7 @@ const router = useRouter();
                         />
                     ),
                     headerRight: () => (
-                        <ScreenHeaderBtn iconUrl={icons.profile} dimension = "100%"/>
+                        <ScreenHeaderBtn iconUrl={images.profile} dimension = "100%"/>
                     ),
                     headerTitle: ""
                 }}
